@@ -5,6 +5,7 @@ Flatiron Movie Theater is open for business! You will be building out an applica
 For this project, you must:
 - Have a well-written README file.
 - Fetch data from a local server running JSON DB server.
+- Make sure to commit your work to save your progress before attempting the bonus deliverables!
 
 # Project Setup & Pre-requisite Data
 In your project directory, create a db.json file and use this datalink for an external site. for your server DB.
@@ -157,8 +158,22 @@ deliverables!**
    Example Response:
    {}
 
-Make sure to commit your work to save your progress before attempting the bonus deliverables!
 
-Add a reset button that resets the votes back to 0
-Have a form for adding animals.
+# Technologies Used
+The Student Grade Generator, Speed Detector, and Net Salary Calculator development used the following languages and tools:
 
+- VS Code
+- Git
+- JavaScript
+- Contact
+- Slack Profile - Anita Mutemi.
+- Linkeldn - Anita Mutemi.
+
+# Author & License
+Copyright (c) [2023] [Anita Mutemi]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
