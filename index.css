@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    font-family: Arial, sans-serif;
+  }
+  
+  #movies {
+    width: 30%;
+    padding: 20px;
+  }
+  
+  #details {
+    width: 70%;
+    padding: 20px;
+  }
+  
+  #poster {
+    width: 50%;
+    height: 50%;
+  }
+  
+  #films li {
+    cursor: pointer;
+  }
+  
+  .sold-out {
+    color: red;
+  }
+  
